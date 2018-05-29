@@ -1,0 +1,18 @@
+/**************************************************
+	GAME
+**************************************************/
+section.game {
+	padding: 40px 0px;
+}
+
+.SplashScreen, 
+.FinishScreen {
+	margin: 0 auto;
+	text-align:center;
+	width: 300px;
+	height: 300px;
+	border: 2px solid #fff;
+	background-color:000000;
+}
+
+.FinishScreen h1,
